@@ -1,80 +1,96 @@
-﻿ ![Status do Projeto](https://img.shields.io/badge/status-concluido%20-midigreen)
+# MyClo — Final Front-end Course Project
 
+**Experimental UI & Animation · Final course project · Grade: 16/20**
 
-# SignIn SignUp Animation
+MyClo is an experimental interface created as my final Front-end Development course project.
 
-This project was developed as part of the final project of Flag's Frontend Developer course, in which I obtained a grade of 16. A responsive login interface that goes up to a main menu page with 4 buttons. Throughout the interface, which was designed and thought up by me, I tried to make the most of css and js animations and play around with it, since it was just an academic experiment. All the icons were designed by me in adobe illustrator and so it results in a unique and exclusive interface full of creativity that identifies me so much.
+I used the project to explore motion, transitions, transformations and animated UI states, bringing together my previous visual-design background with the front-end skills I was developing at the time.
 
+This project was completed shortly before I started my first professional front-end role at VisionWare.
 
-## 📄 Description 
-- Sign-in screen
-- Signup screen
-- Main menu with: Homepage, User, Search, Chat
+## Motion & Interaction
 
+The project was designed as a sequence of animated interface states. Each stage explores a different aspect of motion, transformation and interaction.
 
-## 🎬 Demonstration
-
-<p align="center">
-  <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap1.png" alt="Imagem 1" width="80%">
-</p>
+### 01 — Sign Up Flow
 
 <p align="center">
-    <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap2.png" alt="Imagem 2" width="45%">
-  <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap3.png" alt="Imagem 1" width="45%">
+  <img src="img/myclo-signup-animation.gif" width="700" alt="MyClo animated Sign Up flow showing interface transformation and form reveal">
 </p>
 
-<p align="center">
-    <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap4.png" alt="Imagem 2" width="45%">
-  <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap5.png" alt="Imagem 1" width="45%">
-</p>
+Sign Up selection → block transformation → form reveal.
 
-<p align="center">
-    <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap6.png" alt="Imagem 2" width="45%">
-  <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap7.png" alt="Imagem 1" width="45%">
-</p>
-<p align="center">
-    <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap8.png" alt="Imagem 2" width="45%">
-  <img src="https://github.com/joanadecastro/SignIn-SignUp-Animation/blob/main/img/cap9.png" alt="Imagem 1" width="45%">
-</p>
+### 02 — Welcome Motion
 
+<img src="img/myclo-welcome-animation.gif" width="100%" alt="MyClo animated Welcome screen with moving icons, rotations and colour transitions">
 
+Welcome transition → animated icons → rotation and colour changes.
 
+### 03 — Menu Interactions
 
+<img src="img/myclo-menu-animation.gif" width="100%" alt="MyClo menu interactions showing hover states and animated panel transitions">
 
-## 🚀 Features
+Main menu → hover states → animated panel interactions.
 
-- Responsive Design: The layout adapts to different screen sizes, including mobile devices.
-- Smooth Animations: Simple visual effects for a more enjoyable experience.
+## Exploring Design Through Motion
 
-## 🛠️ Technologies Used
+MyClo was an experiment in making movement and composition part of the interface experience. I explored:
 
-This project is built using the following frontend technologies and tools:
+- CSS animations and transitions
+- Transforms, rotation and movement
+- Colour changes and animated interface states
+- JavaScript-triggered interactions
+- Custom iconography
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="60" alt="illustrator logo"  />
+The focus was on how visual elements could move, transform and reveal the next state of the interface.
 
-</div>
+## Interface Journey
 
+Entry → Sign In / Sign Up → Form → Welcome → Main Menu
 
-## 📦 Installation
+This visual and interactive prototype connects an animated entry screen with demonstrative forms, a Welcome state and a main menu with Home, User, Search and Chat areas.
 
-To run the project locally, follow these steps:
+## What I Practised
 
-### 1. Clone the Repository:
-```bash
-   git clone https://github.com/joanadecastro/SignIn-SignUp-Animation.git
-```
+- Translating visual concepts into HTML/CSS
+- CSS animations and transitions
+- Transformations and positioning
+- JavaScript DOM interaction
+- Visual state changes
+- Interface composition
+- Custom icon integration
+- Connecting design decisions with front-end implementation
 
-### 2. Navigate to the project directory:
-```bash
-   cd SignIn-SignUp-Animation
-```
+The central learning experience was translating my visual sensibility into code and interactive behaviour.
 
-### 3. Open the index.html file in your preferred browser to view the portfolio.
+## Built With
 
+HTML5 · CSS · JavaScript
+
+The project also uses HTML5 Boilerplate, Normalize.css and Modernizr as part of its original technical foundation.
+
+## Project Scope
+
+MyClo was created as an academic experimental prototype focused on interface design, animation and interaction.
+
+The Sign In / Sign Up forms are demonstrative and do not implement authentication, account creation or backend functionality.
+
+Some menu areas represent visual interaction concepts rather than completed product features.
+
+## From Learning to Professional Work
+
+This project represents the final stage of my Front-end Development training before entering my first professional front-end role.
+
+It captures an early point in my transition from a long-standing visual-design background into interface implementation — a connection between design and development that continues to define the way I work today.
+
+Current portfolio: [Atlyon](https://atlyon.pt)
+
+## Author
+
+**Joana Castro**
+
+UI/UX Designer & Front-end Developer
+
+- [Current Portfolio](https://atlyon.pt)
+- [LinkedIn](https://www.linkedin.com/in/joanadecastro/)
+- [GitHub](https://github.com/joanadecastro)
